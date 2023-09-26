@@ -1,2 +1,2 @@
 # etch-a-sketch
-Little sketchpad projects for learning about javascript events listeners.
+Little sketchpad project for learning about javascript event listeners.
