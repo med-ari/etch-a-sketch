@@ -30,7 +30,7 @@ btn.addEventListener('click', () => {
     squares[k].addEventListener('mouseleave', () => {
       squares[k].removeAttribute('class', 'changeColor');
     });
-  } */
+  }          This was for a simple change between white and black. The shading step is pending     */
 
   function random(max) {
     return Math.floor(Math.random() * max + 1);
@@ -53,5 +53,5 @@ btn.addEventListener('click', () => {
     let ids = grid.id;
     ids.setAttribute('class', 'colorChange');
   });
-}); */
+});                    INVESTIGATE HOW TO USE forEach        */
 });
